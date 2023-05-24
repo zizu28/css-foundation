@@ -1,0 +1,19 @@
+.colour {
+    background-color: rgb(255, 0, 150);
+    font-family: Verdana "Deja vu" sans-serif;
+}
+
+#div-colour {
+    color: blue;
+    font-size: 36px;
+}
+
+.size {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
